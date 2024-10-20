@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.Js**
 
-- 💬 Ask me about **HTML5 ,CSS3 ,JAVASCRIPT**
+- 💬 Ask me about **HTML5 ,CSS3 ,JAVASCRIPT ,Node.Js ,MongoDB ,SQL**
 
 - 📫 How to reach me **bappykumar4221@gmail.com**
 
