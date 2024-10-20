@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bappy Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web-developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bappy-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="bappy-kumar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bappy13713764" target="blank"><img src="https://img.shields.io/twitter/follow/bappy13713764?logo=twitter&style=for-the-badge" alt="bappy13713764" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React.Js**
 
 - 💬 Ask me about **HTML5 ,CSS3 ,JAVASCRIPT**
 
